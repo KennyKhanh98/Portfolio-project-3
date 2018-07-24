@@ -67,7 +67,7 @@ select {
   outline: 0;
   padding: 15px;
   width: 100%;
-  background-color: #e8eeef;
+  background-color: #d6ccc7;
   color: #8a97a0;
   box-shadow: 0 1px 0 rgba(0,0,0,0.03) inset;
   margin-bottom: 30px;
@@ -183,16 +183,11 @@ textarea#extra-topic {
     width: 740px;
   }
 
+  hr.the-first,
+  hr.the-second,
   button {
     width: 96%;
   }
 
-  hr.the-first {
-    width: 96%;
-  }
-
-  hr.the-second {
-    width: 96%;
-  }
 
 }
